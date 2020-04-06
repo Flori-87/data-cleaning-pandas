@@ -2,6 +2,7 @@
 
 ![imagen](https://github.com/Flori-87/data-cleaning-pandas/blob/master/input/image.PNG)
 
+
 ### A relevant increase in the practice of water sports has emerged. Sports such as surfing, body boarding, kayaking, paddling, diving and snorkelling have boomed in the past 20 years. This increment may be related to an increase in shark attacks.
 
 #### Project goal
