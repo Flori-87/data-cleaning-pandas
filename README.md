@@ -1,6 +1,6 @@
 # Does practicing water sports expose you to shark attacks?
 
-![imagen](https://github.com/Flori-87/data-cleaning-pandas/blob/master/input/image.PNG)
+![imagen](https://github.com/Flori-87/data-cleaning-pandas/blob/master/input/image_shark.PNG)
 
 
 ### A relevant increase in the practice of water sports has emerged. Sports such as surfing, body boarding, kayaking, paddling, diving and snorkelling have boomed in the past 20 years. This increment may be related to an increase in shark attacks.
