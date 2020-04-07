@@ -8,9 +8,9 @@
 #### Project goal
 
 The main goal of this project is to demonstrate if there is a correlation between increase in shark attacks and the increment of practicing water sports. To explore this, three objectives have been proposed:
-- To investigate if shark attacks on humans have increased over time 
-- To analyse if practicing water sports has raised as one of the main activities underlying these attacks. 
-- To study if there is a greater increase in these attacks in countries where these sports are very popular.
+- Investigate if shark attacks on humans have increased over time. 
+- Analyze if water sports are one of the main activities underlying these attacks. 
+- Study if there is a greater increase in these attacks in countries where these sports are very popular.
 
 #### Tools
 
